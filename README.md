@@ -1,9 +1,9 @@
-##Git Demo for testing
+## Git Demo for testing
 
-###Use of this project
+### Use of this project
 This project serves just for testing of git/github environment
 
-###Author
+### Author
 Aleksas Barzdaitis
 
 © 2022
